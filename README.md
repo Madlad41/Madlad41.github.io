@@ -1,6 +1,7 @@
 # Directorate of Alumni Affairs
 ###### Hey guys I'm Santhosh Pravin K.S
 _This was made as a task given by DAA before my interview_
+
 The Alumni Affairs division of SRM University plays a crucial role in maintaining and strengthening the relationship between the university and its former students. It is responsible for fostering a network that connects alumni, current students, and the institution itself. Below are some key aspects of SRM Alumni Affairs:
 ### 1. Alumni Network and Engagement
 SRM University has a vast and diverse alumni network, consisting of graduates from various disciplines such as engineering, medicine, management, law, and humanities. The Alumni Affairs division regularly organizes events like reunions, seminars, webinars, and networking meets, where alumni are invited to share their experiences, expertise, and professional journeys with current students and fellow alumni.
